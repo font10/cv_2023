@@ -120,6 +120,19 @@
                 <!-- <a href="https://vibrant-engelbart-1f6c0c.netlify.app/" class="btn-proyecto">Ir</a>-->
               </div>
             </div>
+          </div>  
+          
+          <div class="col-xs-12 col-md-12 col-lg-6" data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000">
+            <div class="card h-180" @click="goTo('Mern')">
+              <img src="@/assets/ecommerce_miniatura.png" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card_title mb-1">MERN Full Stack Basic Ecommerce App</h5>
+                <p class="card_text">React + Tailwind + Redux Toolkit + RTK Query + MongoDB + Express + Node </p>
+                <!-- <a href="https://vibrant-engelbart-1f6c0c.netlify.app/" class="btn-proyecto">Ir</a>-->
+              </div>
+            </div>
           </div>   
 
         </div>
